@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Financial Analyst --> Business Analyst --> Web Developer
 
 ### More Information
 
-Financial Analyst --> Business Analyst --> Web Developer
 
 ### Contact me
 
