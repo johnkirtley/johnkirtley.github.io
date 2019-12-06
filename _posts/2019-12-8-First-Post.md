@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging My Experience From Analyst -> Coding Bootcamp -> Developer
+title: Blogging My Experience From Analyst -> Web Developer
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
